@@ -7,4 +7,3 @@ There is also FAQ page. It supposrts different types of payment and processes th
 We have used Firebase for user authentication and database.
 Each of these services are rendered as a new component in react.
 
-HOSTED LINK : https://pizza-man-61510.web.app/
